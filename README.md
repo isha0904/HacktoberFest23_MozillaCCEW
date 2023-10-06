@@ -1,1 +1,1 @@
-# HacktoberFest23WithMozillaCCEW
+# HacktoberFest'23 With Mozilla Campus Club CCEW
