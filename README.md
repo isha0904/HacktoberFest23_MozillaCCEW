@@ -2,26 +2,32 @@
 
 ![hacktoberfest](https://github.com/Mozilla-Campus-Club-Cummins/HacktoberFest23_MozillaCCEW/assets/99483160/efd397fe-ab2d-41c4-82cf-300eb5d2b8f6)
 
-### Rules for participation  
+### About us :
+The Mozilla Campus Club of CCEW was formed to promote the idea of open source among aspiring students and encourage them to make the most of the opportunities that come along with it.
 
-• Any PR(Pull Request) from outside the college will not be accepted.
+### Instructions for Hacktoberfest:
+• You should be a student of CCEW 
 
-• A maximum of two PRs will be allowed in this repository.
+• One should have registered in Mozilla via the form which was sent and also on the official hacktoberfest website.
+
+• A person throughout this event will be allowed a maximum of 2 PRs.
 
 • Mention your "first name last name" on your GitHub profile (If we are unable to identify you we won't accept your PR).
 
+• Mention your name, your branch, and the year whole requesting to assign the issue.
+
+• Make sure the code has proper comments and indentation
+
 • Any kind of spamming won't be tolerated.
 
-• Make sure you have registered on the Google form that was circulated (Check your emails to get the registration link).
+• If any plagiarism is found, the PR will be rejected and no further contribution will be accepted
 
-• Make sure the code is with proper indentation and comments.
+• Issues will be assigned on a first-come, first-serve basis.
 
-• In case of any plagiarism your PR will be rejected.
+• You will get a maximum of 2 days to work on that issue. If you fail to do so, the issue will be assigned to the next student.
 
-• Issues labeled 'Easy' are for FYs.
 
-• Issues will be assigned on a first come first serve basis.
 
-• If you wish to work on any issue comment on the issue with your name, C no, Year, and Branch. Once you are assigned with the issue you can start working on it.
 
-• You will get a maximum of 2 days to work on an issue. If failed to do so the issue will be assigned to other students.
+
+
