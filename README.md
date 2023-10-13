@@ -1,5 +1,7 @@
 # HacktoberFest'23 With Mozilla Campus Club CCEW
 
+![hacktoberfest](https://github.com/Mozilla-Campus-Club-Cummins/HacktoberFest23_MozillaCCEW/assets/99483160/efd397fe-ab2d-41c4-82cf-300eb5d2b8f6)
+
 ### Rules for participation  
 
 • Any PR(Pull Request) from outside the college will not be accepted.
