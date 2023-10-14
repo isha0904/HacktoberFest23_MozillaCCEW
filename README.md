@@ -1,6 +1,7 @@
 # HacktoberFest'23 With Mozilla Campus Club CCEW
 
-![hacktoberfest](https://github.com/Mozilla-Campus-Club-Cummins/HacktoberFest23_MozillaCCEW/assets/99483160/efd397fe-ab2d-41c4-82cf-300eb5d2b8f6)
+![hacktoberfest](https://github.com/Mozilla-Campus-Club-Cummins/HacktoberFest23_MozillaCCEW/assets/99483160/72daa448-af58-473e-b9bf-16061114b666)
+
 
 ### About us :
 The Mozilla Campus Club of CCEW was formed to promote the idea of open source among aspiring students and encourage them to make the most of the opportunities that come along with it.
